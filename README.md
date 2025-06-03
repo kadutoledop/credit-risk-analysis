@@ -1,5 +1,4 @@
 # credit-risk-analysis
-Análise e modelagem de risco de crédito utilizando Machine Learning.
 
 Este repositório contém um projeto de **Análise e Modelagem de Risco de Crédito** utilizando técnicas de **Machine Learning**.
 
